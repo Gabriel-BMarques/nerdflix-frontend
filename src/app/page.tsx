@@ -1,5 +1,6 @@
 import Image from "next/image";
 import styles from "./page.module.css";
+import MovieCard from "@/components/card/card";
 
 export default function Home() {
   return (
@@ -28,7 +29,9 @@ export default function Home() {
         </div>
       </div>
 
-      <div className={styles.center}>
+      <MovieCard />
+
+      {/* <div className={styles.center}>
         <Image
           className={styles.logo}
           src="/next.svg"
@@ -37,7 +40,7 @@ export default function Home() {
           height={37}
           priority
         />
-      </div>
+      </div> */}
 
       <div className={styles.grid}>
         <a
