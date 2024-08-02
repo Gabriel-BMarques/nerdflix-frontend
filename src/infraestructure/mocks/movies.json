@@ -1,0 +1,463 @@
+[
+    {
+      "id": "1",
+      "title": "The Shawshank Redemption",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "year": "1994",
+      "actors": [
+        {
+          "id": "1",
+          "firstName": "Tim",
+          "lastName": "Robbins",
+          "age": 65
+        },
+        {
+          "id": "2",
+          "firstName": "Morgan",
+          "lastName": "Freeman",
+          "age": 87
+        }
+      ],
+      "category": [
+        {
+          "id": "1",
+          "name": "Drama"
+        },
+        {
+          "id": "2",
+          "name": "Crime"
+        }
+      ],
+      "ratings": [
+        {
+          "id": "1",
+          "rate": 9.3,
+          "description": "Outstanding movie with a powerful message.",
+          "visitorId": [
+            {
+              "id": "1",
+              "firstName": "John",
+              "lastName": "Doe",
+              "email": "john.doe@example.com"
+            }
+          ]
+        }
+      ],
+      "classification": 14
+    },
+    {
+      "id": "2",
+      "title": "The Godfather",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "year": "1972",
+      "actors": [
+        {
+          "id": "3",
+          "firstName": "Marlon",
+          "lastName": "Brando",
+          "age": 80
+        },
+        {
+          "id": "4",
+          "firstName": "Al",
+          "lastName": "Pacino",
+          "age": 84
+        }
+      ],
+      "category": [
+        {
+          "id": "1",
+          "name": "Drama"
+        },
+        {
+          "id": "2",
+          "name": "Crime"
+        }
+      ],
+      "ratings": [
+        {
+          "id": "2",
+          "rate": 9.2,
+          "description": "A masterpiece in every sense.",
+          "visitorId": [
+            {
+              "id": "2",
+              "firstName": "Jane",
+              "lastName": "Smith",
+              "email": "jane.smith@example.com"
+            }
+          ]
+        }
+      ],
+      "classification": 18
+    },
+    {
+      "id": "3",
+      "title": "The Dark Knight",
+      "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+      "year": "2008",
+      "actors": [
+        {
+          "id": "5",
+          "firstName": "Christian",
+          "lastName": "Bale",
+          "age": 50
+        },
+        {
+          "id": "6",
+          "firstName": "Heath",
+          "lastName": "Ledger",
+          "age": 28
+        }
+      ],
+      "category": [
+        {
+          "id": "3",
+          "name": "Action"
+        },
+        {
+          "id": "1",
+          "name": "Drama"
+        }
+      ],
+      "ratings": [
+        {
+          "id": "3",
+          "rate": 9.0,
+          "description": "A thrilling and complex action film.",
+          "visitorId": [
+            {
+              "id": "3",
+              "firstName": "Mike",
+              "lastName": "Johnson",
+              "email": "mike.johnson@example.com"
+            }
+          ]
+        }
+      ],
+      "classification": 14
+    },
+    {
+      "id": "4",
+      "title": "Pulp Fiction",
+      "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "year": "1994",
+      "actors": [
+        {
+          "id": "7",
+          "firstName": "John",
+          "lastName": "Travolta",
+          "age": 70
+        },
+        {
+          "id": "8",
+          "firstName": "Uma",
+          "lastName": "Thurman",
+          "age": 54
+        }
+      ],
+      "category": [
+        {
+          "id": "4",
+          "name": "Thriller"
+        },
+        {
+          "id": "1",
+          "name": "Drama"
+        }
+      ],
+      "ratings": [
+        {
+          "id": "4",
+          "rate": 8.9,
+          "description": "A darkly comedic masterpiece.",
+          "visitorId": [
+            {
+              "id": "4",
+              "firstName": "Alice",
+              "lastName": "Brown",
+              "email": "alice.brown@example.com"
+            }
+          ]
+        }
+      ],
+      "classification": 16
+    },
+    {
+      "id": "5",
+      "title": "The Lord of the Rings: The Return of the King",
+      "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "year": "2003",
+      "actors": [
+        {
+          "id": "9",
+          "firstName": "Elijah",
+          "lastName": "Wood",
+          "age": 43
+        },
+        {
+          "id": "10",
+          "firstName": "Viggo",
+          "lastName": "Mortensen",
+          "age": 65
+        }
+      ],
+      "category": [
+        {
+          "id": "5",
+          "name": "Fantasy"
+        },
+        {
+          "id": "3",
+          "name": "Action"
+        }
+      ],
+      "ratings": [
+        {
+          "id": "5",
+          "rate": 8.9,
+          "description": "A stunning conclusion to an epic trilogy.",
+          "visitorId": [
+            {
+              "id": "5",
+              "firstName": "David",
+              "lastName": "Wilson",
+              "email": "david.wilson@example.com"
+            }
+          ]
+        }
+      ],
+      "classification": 14
+    },
+    {
+      "id": "6",
+      "title": "Forrest Gump",
+      "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+      "year": "1994",
+      "actors": [
+        {
+          "id": "11",
+          "firstName": "Tom",
+          "lastName": "Hanks",
+          "age": 68
+        },
+        {
+          "id": "12",
+          "firstName": "Robin",
+          "lastName": "Wright",
+          "age": 58
+        }
+      ],
+      "category": [
+        {
+          "id": "1",
+          "name": "Drama"
+        },
+        {
+          "id": "6",
+          "name": "Romance"
+        }
+      ],
+      "ratings": [
+        {
+          "id": "6",
+          "rate": 8.8,
+          "description": "A heartwarming tale that spans decades.",
+          "visitorId": [
+            {
+              "id": "6",
+              "firstName": "Emma",
+              "lastName": "Taylor",
+              "email": "emma.taylor@example.com"
+            }
+          ]
+        }
+      ],
+      "classification": 12
+    },
+    {
+      "id": "7",
+      "title": "Inception",
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+      "year": "2010",
+      "actors": [
+        {
+          "id": "13",
+          "firstName": "Leonardo",
+          "lastName": "DiCaprio",
+          "age": 49
+        },
+        {
+          "id": "14",
+          "firstName": "Joseph",
+          "lastName": "Gordon-Levitt",
+          "age": 43
+        }
+      ],
+      "category": [
+        {
+          "id": "7",
+          "name": "Sci-Fi"
+        },
+        {
+          "id": "3",
+          "name": "Action"
+        }
+      ],
+      "ratings": [
+        {
+          "id": "7",
+          "rate": 8.8,
+          "description": "A mind-bending thriller with stunning visuals.",
+          "visitorId": [
+            {
+              "id": "7",
+              "firstName": "Chris",
+              "lastName": "Evans",
+              "email": "chris.evans@example.com"
+            }
+          ]
+        }
+      ],
+      "classification": 14
+    },
+    {
+      "id": "8",
+      "title": "Fight Club",
+      "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into much more.",
+      "year": "1999",
+      "actors": [
+        {
+          "id": "15",
+          "firstName": "Brad",
+          "lastName": "Pitt",
+          "age": 60
+        },
+        {
+          "id": "16",
+          "firstName": "Edward",
+          "lastName": "Norton",
+          "age": 55
+        }
+      ],
+      "category": [
+        {
+          "id": "1",
+          "name": "Drama"
+        },
+        {
+          "id": "4",
+          "name": "Thriller"
+        }
+      ],
+      "ratings": [
+        {
+          "id": "8",
+          "rate": 8.8,
+          "description": "A gritty, subversive satire on consumer culture.",
+          "visitorId": [
+            {
+              "id": "8",
+              "firstName": "Sara",
+              "lastName": "Thomas",
+              "email": "sara.thomas@example.com"
+            }
+          ]
+        }
+      ],
+      "classification": 16
+    },
+    {
+      "id": "9",
+      "title": "The Matrix",
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "year": "1999",
+      "actors": [
+        {
+          "id": "17",
+          "firstName": "Keanu",
+          "lastName": "Reeves",
+          "age": 59
+        },
+        {
+          "id": "18",
+          "firstName": "Laurence",
+          "lastName": "Fishburne",
+          "age": 63
+        }
+      ],
+      "category": [
+        {
+          "id": "7",
+          "name": "Sci-Fi"
+        },
+        {
+          "id": "3",
+          "name": "Action"
+        }
+      ],
+      "ratings": [
+        {
+          "id": "9",
+          "rate": 8.7,
+          "description": "A revolutionary sci-fi film with groundbreaking effects.",
+          "visitorId": [
+            {
+              "id": "9",
+              "firstName": "Mark",
+              "lastName": "Harris",
+              "email": "mark.harris@example.com"
+            }
+          ]
+        }
+      ],
+      "classification": 14
+    },
+    {
+      "id": "10",
+      "title": "Goodfellas",
+      "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners.",
+      "year": "1990",
+      "actors": [
+        {
+          "id": "19",
+          "firstName": "Robert",
+          "lastName": "De Niro",
+          "age": 81
+        },
+        {
+          "id": "20",
+          "firstName": "Ray",
+          "lastName": "Liotta",
+          "age": 69
+        }
+      ],
+      "category": [
+        {
+          "id": "2",
+          "name": "Crime"
+        },
+        {
+          "id": "1",
+          "name": "Drama"
+        }
+      ],
+      "ratings": [
+        {
+          "id": "10",
+          "rate": 8.7,
+          "description": "A gritty and gripping gangster drama.",
+          "visitorId": [
+            {
+              "id": "10",
+              "firstName": "Laura",
+              "lastName": "Miller",
+              "email": "laura.miller@example.com"
+            }
+          ]
+        }
+      ],
+      "classification": 16
+    }
+  ]
+  
