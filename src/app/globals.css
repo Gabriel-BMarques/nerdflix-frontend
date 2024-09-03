@@ -105,3 +105,8 @@ a {
     color-scheme: dark;
   }
 }
+
+*{
+  font-family: ' Gotham', 'Arial Narrow', Arial, sans-serif;
+  box-sizing: border-box;
+}

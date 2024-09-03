@@ -1,0 +1,55 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+  position: relative;
+  width: 100%;
+  margin-top: 2em;
+  z-index: 10;
+  background: #333;
+  bottom: 0;
+  height: 200px;
+  padding: 16px;
+    font-size: 20px;
+
+}
+
+.nav {
+  width: -webkit-fill-available;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  height: fit-content;
+}
+
+.logo {
+  position: relative;
+  width: fit-content;
+  color: #E50914;
+  font-size: 60px;
+  font-weight: 50;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+.headerImage {
+  width: 100%;
+  height: 100%;
+}
+
+.menu{
+  font-family: "Gotham ", Arial, Verdana, Tahoma sans-serif ;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+
+}
+
+.footer span{
+  font-weight: bold;
+  
+}
